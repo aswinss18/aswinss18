@@ -15,13 +15,13 @@ Welcome to my GitHub profile! I’m a passionate developer with a focus on both 
 
 - 📫 Email: [aswinss0018@gmail.com](mailto:aswinss0018@gmail.com)
 
+- 🌐 LinkedIn: [Aswin S S](https://www.linkedin.com/in/aswin-s-s-632405306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 ## Projects
 
 Feel free to check out my repositories to see some of the projects I've been working on. 
 
-## Connect with Me
 
-- [LinkedIn](your-linkedin-profile) | [Twitter](your-twitter-profile)
 
 <!---
 aswinss18/aswinss18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
