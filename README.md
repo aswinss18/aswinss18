@@ -1,9 +1,27 @@
-- 👋 Hi, I’m @aswinss18
-- 👀 I’m interested in Development and Designing of Web and Mobile Application...
-- 🌱 I’m currently learning Front-End Development...
-- 🤹🏼 Skilled in JavaScript & Figma ...
-- 📫 aswinss0018@gmail.com...
-- ⚡ Self-taught developer eager to push beyond my limits...
+![Cover Image](https://github.com/aswinss18/aswinss18.github.io/raw/main/images/Aswin S S.jpg)
+
+# 👋 Hi, I’m @aswinss18
+
+Welcome to my GitHub profile! I’m a passionate developer with a focus on both web and mobile application development. Here's a bit about me:
+
+## About Me
+
+- 👀 **Interests**: Development and Designing of Web and Mobile Applications.
+- 🌱 **Currently Learning**: Front-End Development.
+- 🤹🏼 **Skills**: JavaScript & Figma.
+- ⚡ **Bio**: Self-taught developer eager to push beyond my limits.
+
+## Contact Me
+
+- 📫 Email: [aswinss0018@gmail.com](mailto:aswinss0018@gmail.com)
+
+## Projects
+
+Feel free to check out my repositories to see some of the projects I've been working on. 
+
+## Connect with Me
+
+- [LinkedIn](your-linkedin-profile) | [Twitter](your-twitter-profile)
 
 <!---
 aswinss18/aswinss18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
