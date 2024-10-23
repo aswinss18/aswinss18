@@ -1,4 +1,4 @@
-![Cover Image](https://github.com/aswinss18/aswinss18/raw/main/images/images/ASWIN S S.png)
+![Cover Image](https://github.com/aswinss18/aswinss18/raw/main/images/images/Aswin.png)
 
 # 👋 Hi, I’m @aswinss18
 
