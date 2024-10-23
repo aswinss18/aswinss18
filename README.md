@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I’m a passionate developer with a focus on both 
 ## About Me
 
 - 💟 **Interests**: Development and Designing of Web and Mobile Applications.
-- ⭐ **Expertise**: Front-End Development.
-- 🤹🏼 **Skills**: React & Figma.
+- ⭐ **Expertise**: MERN Stack Development.
+- 🤹🏼 **Skills**: React JS, Next JS, Node JS, Tailwind CSS & Figma.
 - ⚡ **Bio**: Self-taught developer eager to push beyond my limits.
 
 ## Contact Me
