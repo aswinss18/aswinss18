@@ -1,8 +1,6 @@
 <h1 align="center">Welcome to Aswin S S's GitHub Profile!</h1>
 
-![Profile Banner](https://some-cool-banner-image-url) <!-- Replace with your own banner image URL -->
 
----
 
 ## 👋 About Me
 Hello! I'm **Aswin S S**, a passionate **Full Stack Developer** who loves building modern, interactive, and efficient web applications. I’m continuously learning and excited to bring creative solutions to the development world.
