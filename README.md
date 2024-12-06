@@ -36,8 +36,16 @@ Hello! I'm **Aswin S S**, a passionate **Full Stack Developer** who loves buildi
 ---
 
 ## 🚀 Latest Projects
-- **Project 1**: A description of a recent project.
-- **Project 2**: A description of another recent project.
+- **Hotel Booking Web App**
+About the App : A hotel booking app with efficient cabin listing, booking, and account
+management.
+Problem Solved : Improved speed and caching for a seamless booking experience using
+Next.js server side rendering.
+- **Food Delivery Web App**
+About the App : A fast, user-friendly pizza delivery app with real-time tracking,
+customization, and secure payments.
+Problem Solved : Problem Solved: Simplifies ordering and tracking pizzas with quick
+delivery options.
 
 ---
 
