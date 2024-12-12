@@ -34,19 +34,7 @@ Hello! I'm **Aswin S S**, a passionate **Full Stack Developer** who loves buildi
 </p>
 
 
----
 
-## 🚀 Latest Projects
-- **Krfatmen**
-About the App : Complete freelancing website for young talents.
-Problem Solved : Connect clients and freelancers.
-- **Food Delivery Web App**
-About the App : A fast, user-friendly pizza delivery app with real-time tracking,
-customization, and secure payments.
-Problem Solved : Problem Solved: Simplifies ordering and tracking pizzas with quick
-delivery options.
-
----
 
 ## 📫 Connect with Me
 - **Email**: [aswinss0018@gmail.com)](mailto:aswinss0018@gmail.com)
