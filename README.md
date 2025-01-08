@@ -1,80 +1,71 @@
-<h1 align="center">👋 Welcome to Aswin S S's GitHub Profile!</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+Aswin+S+S's+GitHub!;Front-End+Developer;UI%2FUX+Designer;Innovator+%26+Learner;Let's+Build+Amazing+Things!+🚀" alt="Typing Animation" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=F78C6C&center=true&vCenter=true&lines=Full+Stack+Developer;Creative+Problem+Solver;Passionate+About+UI/UX;Open+Source+Enthusiast" alt="Typing SVG">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="Coding Animation" />
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
-Hello! I'm **Aswin S S**, a passionate **Full Stack Developer** with a knack for creating sleek, efficient, and interactive web applications. 🚀
+## 👋 About Me
 
-- 🔭 **Currently Working On**: MERN Stack Projects and Advanced Animations.
-- 🌱 **Learning**: React Native, Advanced UI/UX Design.
-- 🎨 **Skills**: React, Next.js, Tailwind CSS, Framer Motion.
-- 💡 **Hobbies**: Coding, Designing, and Exploring Open Source.
+Hi, I'm **Aswin S S**, a passionate **Full-Stack Developer** and **Figma Designer**.  
+I create clean, dynamic, and visually appealing web experiences! ✨  
 
----
-
-## 🛠️ Tech Stack
-
-**Languages & Tools**:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-
-**Frontend**:
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
-
-**Backend**:
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
-
-**Databases**:
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Design**:
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+- 🌱 **Currently Exploring**: Advanced **React.js**, **Framer Motion**, and **Next.js**.  
+- 🔍 **Focus**: Building smooth UIs and modern, interactive web apps.  
+- ⚡ **Skills**: Expertise in JavaScript, TypeScript, React, and Figma.  
+- 🎨 **Interests**: Crafting creative designs and experimenting with **animations**.  
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aswinss18&show_icons=true&theme=radical" alt="Aswin's GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aswinss18&theme=radical" alt="GitHub Streak" width="48%">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinss18&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,figma,tailwind,firebase,git" alt="Tech Stack" /><br/>
 </p>
 
 ---
 
-## 🚀 Projects
-- **[Anonymous Chat App](https://github.com/aswinss18/anonymous-chat)**: Real-time chat app using React & Firebase.
-- **[Hotel Booking App](https://github.com/aswinss18/hotel-booking-app)**: Next.js-powered booking platform.
-- **[Social Media App](https://github.com/aswinss18/social-media-app)**: Built with React.js & MongoDB.
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aswinss18&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aswinss18&theme=radical" alt="GitHub Streak Stats" />
+
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinss18&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+## 🚀 Future Vision & Aspirations  
+
+🌟 **The Path Ahead**  
+<div align="center">
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="400px" alt="Futuristic Animation" />
+  <h3>Dreaming Big, Building Bold</h3>
+  <p>
+    👨‍💻 <strong>Aspiring to become a Full-Stack Developer at FAANG, creating magical user experiences.</strong><br />
+    🧠 Constantly learning cutting-edge technologies like AI, IoT, and Next.js to stay ahead.<br />
+    🌍 Envisioning projects that bridge the gap between creativity and technology.<br />
+    🔗 On a mission to contribute impactful projects to the open-source community.
+  </p>
+</div>
 
 ---
 
-## 💬 Connect with Me
+## 📫 Let's Connect!
+
+- 📧 **Email**: [aswinss0018@gmail.com](mailto:aswinss0018@gmail.com)  
+- 🔗 **LinkedIn**: [Aswin S S](https://www.linkedin.com/in/aswin-s-s-632405306/)  
+- 🌐 **Portfolio**: Coming Soon!
+
+---
+
+> 💡 **Quote**: "Creativity is intelligence having fun."  
+
 <p align="center">
-  <a href="mailto:aswinss0018@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/aswin-s-s-632405306/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/aswinss18">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=34F4F7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Happy+Coding!+%F0%9F%92%BB" alt="Typing Animation" />
 </p>
-
----
-
-> **"Code your dreams into reality. Let innovation be your legacy."**
