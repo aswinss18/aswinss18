@@ -32,7 +32,7 @@ I create clean, dynamic, and visually appealing web experiences! ✨
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aswinss18&show_icons=true&theme=radical" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=aswinss18&theme=radical" alt="GitHub Streak Stats" />
+
 
 </div>
 <div align="center">
