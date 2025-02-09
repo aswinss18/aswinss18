@@ -64,7 +64,7 @@ I create clean, dynamic, and visually appealing web experiences! ✨
 
 ---
 
-> 💡 **Quote**: "Creativity is intelligence having fun."
+> 💡 **Quote**: "The best way to predict the future is to invent it."
 
 ---
 
