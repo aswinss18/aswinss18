@@ -40,7 +40,7 @@ I create clean, dynamic, and visually appealing web experiences! ✨
 </div>
 
 ---
-## 🚀 Future Vision & Aspirations  
+## 🚀 Future Vision
 
 🌟 **The Path Ahead**  
 <div align="center">
