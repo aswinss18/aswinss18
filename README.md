@@ -32,8 +32,6 @@ I create clean, dynamic, and visually appealing web experiences! ✨
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aswinss18&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinss18&layout=compact&theme=radical" alt="Top Languages" />
