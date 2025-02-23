@@ -17,7 +17,6 @@ I create clean, dynamic, and visually appealing web experiences! ✨
 - 🔍 **Focus**: Building smooth UIs and modern, interactive web apps.  
 - ⚡ **Skills**: Expertise in JavaScript, TypeScript, React, and Figma.  
 - 🎨 **Interests**: Crafting creative designs and experimenting with **animations**.  
-
 ---
 
 ## 🚀 Tech Stack
