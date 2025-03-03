@@ -7,7 +7,6 @@
 </p>
 ---
 ## 👋 About Me
-
 Hi, I'm **Aswin S S**, a passionate **Full-Stack Developer** and **Figma Designer**.  
 I create clean, dynamic, and visually appealing web experiences! ✨  
 
