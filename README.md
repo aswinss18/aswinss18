@@ -14,7 +14,6 @@ I create clean, dynamic, and visually appealing web experiences! ✨
 - 🎨 **Interests**: Crafting creative designs and experimenting with **animations**.  
 ---
 ## 🚀 Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,figma,tailwind,firebase,git" alt="Tech Stack" /><br/>
 </p>
