@@ -19,7 +19,6 @@ I create clean, dynamic, and visually appealing web experiences! ✨
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
