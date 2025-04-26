@@ -7,7 +7,6 @@
 👋 About Me
 Hi, I'm **Aswin S S**, a passionate **Full-Stack Developer** and **Figma Designer**.  
 I create clean, dynamic, and visually appealing web experiences! ✨  
-
 - 🌱 **Currently Exploring**: Advanced **React.js**, **Framer Motion**, and **Next.js**.  
 - 🔍 **Focus**: Building smooth UIs and modern, interactive web apps.  
 - ⚡ **Skills**: Expertise in JavaScript, TypeScript, React, and Figma.  
