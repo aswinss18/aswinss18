@@ -1,61 +1,105 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+Aswin+S+S's+GitHub!;Full-Stack+Developer;Mobile+App+Developer;UI%2FUX+Designer;Innovator+%26+Learner;Let's+Build+Amazing+Things!+🚀" alt="Typing Animation" />
-</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="Coding Animation" />
-</p>
-👋 About Me
-Hi, I'm **Aswin S S**, a passionate **Full-Stack Developer** and **Figma Designer**.  
-I create clean, dynamic, and visually appealing web experiences! ✨  
-- 🌱 **Currently Exploring**: Advanced **React.js**, **Framer Motion**, and **Next.js**.  
-- 🔍 **Focus**: Building smooth UIs and modern, interactive web apps.  
-- ⚡ **Skills**: Expertise in JavaScript, TypeScript, React, and Figma.  
-- 🎨 **Interests**: Crafting creative designs and experimenting with **animations**.  
----
-## 🚀 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,figma,tailwind,firebase,git" alt="Tech Stack" /><br/>
-</p>
+# Aswin S S
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Mobile+App+Developer;UI%2FUX+Designer;Problem+Solver" alt="Typing SVG" />
+  
+  <p>Building elegant solutions with code and design</p>
+  
+  <a href="mailto:aswinss0018@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/aswin-s-s-632405306/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+## 👨‍💻 About Me
+
+```javascript
+const aswin = {
+  location: "India",
+  currentFocus: ["React.js", "Next.js", "Framer Motion"],
+  passions: ["UI/UX Design", "Interactive Web Apps", "Clean Code"],
+  funFact: "I find inspiration in everything around me!"
+};
+```
+
+I'm a passionate Full-Stack Developer and Figma Designer who loves creating clean, user-centered digital experiences. I believe in the power of intuitive design combined with efficient code to solve real-world problems.
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation" />
+
+## 🚀 What I'm Up To
+
+- Exploring advanced **React.js** patterns and performance optimization
+- Creating fluid animations with **Framer Motion**
+- Building SEO-friendly applications with **Next.js**
+- Designing intuitive user interfaces in **Figma**
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### Design & Tools
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aswinss18&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinss18&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aswinss18&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinss18&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aswinss18&repo=repository-name&theme=tokyonight" alt="Project Card" />
+  </a>
+  <!-- Add more project cards as needed -->
+</div>
+
 ## 🚀 Future Vision
 
-🌟 **The Path Ahead**  
+I'm on a journey to create impactful digital experiences that solve real problems. My goals include:
+
+- Contributing to cutting-edge projects that push technological boundaries
+- Joining a forward-thinking tech company where I can grow and innovate
+- Building a portfolio of meaningful applications that make a difference
+- Mastering emerging technologies like AI integration and Web3
+
+## 💭 Favorite Quote
+
 <div align="center">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="400px" alt="Futuristic Animation" />
-  <h3>Dreaming Big, Building Bold</h3>
-  <p>
-    👨‍💻 <strong>Aspiring to become a Full-Stack Developer at FAANG, creating magical user experiences.</strong><br />
-    🧠 Constantly learning cutting-edge technologies like AI, IoT, and Next.js to stay ahead.<br />
-    🌍 Envisioning projects that bridge the gap between creativity and technology.<br />
-    🔗 On a mission to contribute impactful projects to the open-source community.
-  </p>
+  
+  > "The best way to predict the future is to invent it."
+
 </div>
 
----
-
-## 📫 Let's Connect!
-
-- 📧 **Email**: [aswinss0018@gmail.com](mailto:aswinss0018@gmail.com)  
-- 🔗 **LinkedIn**: [Aswin S S](https://www.linkedin.com/in/aswin-s-s-632405306/)  
-- 🌐 **Portfolio**: 
-
----
-
-> 💡 **Quote**: "The best way to predict the future is to invent it."
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=34F4F7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Happy+Coding!+%F0%9F%92%BB" alt="Typing Animation" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=100&section=footer" width="100%" />
+</div>
