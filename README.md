@@ -39,7 +39,6 @@ typescriptinterface Developer {
   currentFocus: () => string;
   funFact: () => string;
 }
-
 const aswin: Developer = {
   name: "Aswin S S",
   title: "Full-Stack Developer & Designer",
