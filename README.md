@@ -12,6 +12,7 @@
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=4000&pause=1000&color=6C47FF&center=true&vCenter=true&width=600&height=50&lines=Crafting+Beautiful+User+Experiences;Building+Scalable+Web+Applications;Designing+Intuitive+Interfaces;Turning+Ideas+into+Reality" alt="Typing SVG" />
 </div>
