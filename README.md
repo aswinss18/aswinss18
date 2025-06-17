@@ -16,7 +16,6 @@
     <img src="https://img.shields.io/github/followers/aswinss18?label=Followers&style=for-the-badge&color=4CAF50&labelColor=4CAF50&logo=github" alt="GitHub Followers" />
   </a>
 </div>
-
 <br/>
 
 <div align="center">
