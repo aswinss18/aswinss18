@@ -17,8 +17,6 @@
   </a>
 </div>
 <br/>
-
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=800&height=60&lines=💻+Crafting+Digital+Experiences;🚀+Building+Scalable+Applications;🎨+Designing+Beautiful+Interfaces;⚡+Optimizing+Performance;🔥+Full-Stack+Development;🌟+Open+Source+Contributor;🧠+AI+%26+Machine+Learning+Enthusiast" alt="Typing Animation" />
 </div>
