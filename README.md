@@ -31,7 +31,7 @@
 
 ### 🚀 **Who Am I?**
 
-I'm a **passionate Full-Stack Developer** and **UI/UX Designer** who loves creating pixel-perfect, performant web applications. I thrive at the intersection of **design and development**, building digital experiences that users love.
+Full-Stack Developer skilled in MERN, Python FastAPI Passionate about building AI-powered solutions that turn complex ideas into scalable, human-centered digital experiences — always learning, always creating.
 
 ### 🎯 **Current Mission**
 - 🔥 Mastering **Next.js 14** and **React Server Components**
