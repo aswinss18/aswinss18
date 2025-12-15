@@ -22,9 +22,7 @@
 </div>
 
 <br/>
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
-
 <table>
 <tr>
 <td width="55%" valign="top">
