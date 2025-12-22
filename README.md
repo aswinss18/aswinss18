@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12&height=280&section=header&text=Aswin%20S%20S&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20UI/UX%20Designer%20•%20Tech%20Innovator&descAlignY=55&descSize=20" width="100%" />
 </div>
-
 <div align="center">
   <a href="https://github.com/aswinss18">
     <img src="https://komarev.com/ghpvc/?username=aswinss18&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
@@ -20,7 +19,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=800&height=60&lines=💻+Crafting+Digital+Experiences;🚀+Building+Scalable+Applications;🎨+Designing+Beautiful+Interfaces;⚡+Optimizing+Performance;🔥+Full-Stack+Development;🌟+Open+Source+Contributor;🧠+AI+%26+Machine+Learning+Enthusiast" alt="Typing Animation" />
 </div>
-
 <br/>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 <table>
