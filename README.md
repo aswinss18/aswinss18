@@ -24,9 +24,7 @@
 <table>
 <tr>
 <td width="55%" valign="top">
-
 ### 🚀 **Who Am I?**
-
 Full-Stack Developer skilled in MERN, Python FastAPI Passionate about building AI-powered solutions that turn complex ideas into scalable, human-centered digital experiences — always learning, always creating.
 
 ### 🎯 **Current Mission**
@@ -38,7 +36,6 @@ Full-Stack Developer skilled in MERN, Python FastAPI Passionate about building A
 
 ### 🎨 **Design Philosophy**
 > *"Good design is invisible, great user experience is unforgettable"*
-
 </td>
 <td width="45%" align="center" valign="top">
 
