@@ -58,7 +58,6 @@ Full-Stack Developer skilled in MERN, Python FastAPI Passionate about building A
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript" />
   <img src="https://skillicons.dev/icons?i=tailwind,sass,css,html,figma" />
 </p>
-
 ### ⚙️ **Backend & Database**
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi" />
