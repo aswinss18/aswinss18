@@ -162,14 +162,7 @@ Full-Stack Developer skilled in MERN, Python FastAPI Passionate about building A
 
 ### 🔥 **Currently Learning**
 ```typescript
-const currentLearning = {
-  frameworks: ["Next.js 14", "Astro", "SvelteKit"],
-  languages: ["Rust", "Go", "WebAssembly"],
-  databases: ["PlanetScale", "Turso", "EdgeDB"],
-  cloud: ["Vercel", "Railway", "Fly.io"],
-  ai_ml: ["LangChain", "Pinecone", "Hugging Face"],
-  mobile: ["React Native", "Expo", "Tauri"]
-};
+
 
 const goals2024 = [
   "Build production-ready AI applications",
