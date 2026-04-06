@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Aswin%20S%20S&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20SaaS%20%26%20AI%20Builder&descAlignY=60&descSize=22&color=0:0f0c29,40:302b63,100:1a1a2e&stroke=7c3aed&strokeWidth=2" width="100%" />
-
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=860&height=50&lines=Shipping+SaaS+%26+AI+used+by+Microsoft+%26+Nike+%F0%9F%9A%80;Next.js+14+%7C+FastAPI+%7C+LangChain+%7C+RAG+Pipelines+%F0%9F%A7%A0;Sub-2s+cold+starts+%7C+90%2B+Lighthouse+scores+%E2%9A%A1;Built+Picosu+—+AI+Content+SaaS+—+Solo%2C+End+to+End+%F0%9F%8E%AF" />
 
 <br/>
